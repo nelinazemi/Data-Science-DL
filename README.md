@@ -19,3 +19,11 @@
     - A Convolutional Neural Network (CNN) is defined for the task. The CNN includes several convolutional layers, each followed by a batch normalization layer and a ReLU activation function. The output of the CNN is fed into a linear layer for classification.
     - Cross-entropy loss is used as the loss function and Stochastic Gradient Descent (SGD) is used as the optimizer.
     - The model is trained for a number of epochs. In each epoch, the model is trained on the training set and then evaluated on the validation set. The model's parameters are updated using backpropagation and the optimizer.
+
+## Contributing
+
+Contributions are welcome! Please read the contribution guidelines before making any changes.
+
+## License
+
+This project is licensed under the terms of the MIT license.
