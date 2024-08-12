@@ -13,4 +13,13 @@
   - This project focuses on predicting the median house value based on various features using a neural network model.
   - The model is trained using Stochastic Gradient Descent (SGD) as the optimizer and Mean Squared Error (MSE) as the loss function. The training process involves calculating the loss for each batch of data and updating the model parameters.
   - The model's predictions on the test set are compared with the actual values to compute the R-squared score.
+  - 
+## RNN-based Neural Networks
 
+    - This folder contains three types of neural network models: LSTM (Long Short-Term Memory), RNN (Recurrent Neural Network), and TNN (Tensorial Neural Network). These models have been trained on the UCI-HAR (Human Activity Recognition Using Smartphones) dataset. The UCI-HAR dataset consists of recordings from the accelerometers and gyroscopes of smartphones worn by 30 participants while performing six different activities: walking, walking upstairs, walking downstairs, sitting, standing, and laying. The dataset includes a 561-feature vector with time and frequency domain variables1.
+    
+    - ### Neural Network Models:
+    
+        - LSTM (Long Short-Term Memory): LSTM networks are a type of RNN designed to handle long-term dependencies and mitigate the vanishing gradient problem. They are particularly effective for sequential data and time series prediction.
+        - RNN (Recurrent Neural Network): RNNs are a class of neural networks that process sequential data by maintaining a hidden state that captures information from previous time steps. They are commonly used for tasks such as text, speech, and time series analysis.
+        - TNN (Tensorial Neural Network): TNNs combine the principles of tensor networks and neural networks to handle high-dimensional data efficiently. They are used for tasks such as network compression, information fusion, and quantum circuit simulation.
