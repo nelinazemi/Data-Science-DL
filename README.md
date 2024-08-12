@@ -15,7 +15,7 @@
   - The model's predictions on the test set are compared with the actual values to compute the R-squared score.
   - 
 
-- ### RNN-based Neural Networks
+- ### 3- [RNN-based Neural Networks]:(https://github.com/nelinazemi/Data-Science-DL/tree/9e32698c3f5523395d28f4485011af1fd84d83ff/Recurrent%20Neural%20Network)
 
   - This folder contains three types of neural network models: LSTM (Long Short-Term Memory), RNN (Recurrent Neural Network), and TNN (Tensorial Neural Network). These models have been trained on the UCI-HAR (Human Activity Recognition Using Smartphones) dataset. The UCI-HAR dataset consists of recordings from the accelerometers and gyroscopes of smartphones worn by 30 participants while performing six different activities: walking, walking upstairs, walking downstairs, sitting, standing, and laying. The dataset includes a 561-feature vector with time and frequency domain variables1.
     
