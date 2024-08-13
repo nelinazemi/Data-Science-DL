@@ -21,7 +21,7 @@
         - RNN (Recurrent Neural Network): RNNs are a class of neural networks that process sequential data by maintaining a hidden state that captures information from previous time steps. They are commonly used for tasks such as text, speech, and time series analysis.
         - TNN (Tensorial Neural Network): TNNs combine the principles of tensor networks and neural networks to handle high-dimensional data efficiently. They are used for tasks such as network compression, information fusion, and quantum circuit simulation.
 
-- ### 4- [Generative Adversarial Network](https://github.com/nelinazemi/Data-Science-DL/tree/aaa46ff4aebc1e73fd2ae1f1a3d89e000056be44/Generative%20Adversal%20Network)
+- ### 4- [Generative Adversarial Network:](https://github.com/nelinazemi/Data-Science-DL/tree/aaa46ff4aebc1e73fd2ae1f1a3d89e000056be44/Generative%20Adversal%20Network)
     - GANs are a class of machine learning frameworks where two neural networks, a generator and a discriminator, compete against each other to produce data that is indistinguishable from real data.
     MNIST Dataset:
     - The MNIST dataset is a large database of handwritten digits that is commonly used for training various image processing systems. It contains 60,000 training images and 10,000 testing images of digits from 0 to 9.
