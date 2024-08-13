@@ -8,12 +8,12 @@
     - A MLP model is defined with two hidden layers. The model is moved to a GPU if available.
     - The model is trained using Stochastic Gradient Descent (SGD) as the optimizer and Cross-Entropy Loss as the loss function.
     - The model's performance is evaluated on the validation set.survived or not based on the given features with a high degree of accuracy.
-    - 
+      
 - ### 2- [Multi-Layer Perceptron (MLP) for Regression:](https://github.com/nelinazemi/Data-Science-DL/tree/f29a2b9145ae41fcc3aa59e89c7f866f4b3fa7a8/Multilayer%20Perceptron%20(MLP)%20Implementation/MLP%20for%20Regression)
   - This project focuses on predicting the median house value based on various features using a neural network model.
   - The model is trained using Stochastic Gradient Descent (SGD) as the optimizer and Mean Squared Error (MSE) as the loss function. The training process involves calculating the loss for each batch of data and updating the model parameters.
   - The model's predictions on the test set are compared with the actual values to compute the R-squared score.
-  - 
+    
 - ### 3- [RNN-based Neural Networks:](https://github.com/nelinazemi/Data-Science-DL/tree/9e32698c3f5523395d28f4485011af1fd84d83ff/Recurrent%20Neural%20Network)
   - This folder contains three types of neural network models: LSTM (Long Short-Term Memory), RNN (Recurrent Neural Network), and TNN (Tensorial Neural Network). These models have been trained on the UCI-HAR (Human Activity Recognition Using Smartphones) dataset. The UCI-HAR dataset consists of recordings from the accelerometers and gyroscopes of smartphones worn by 30 participants while performing six different activities: walking, walking upstairs, walking downstairs, sitting, standing, and laying. The dataset includes a 561-feature vector with time and frequency domain variables1.
   - Neural Network Models:
