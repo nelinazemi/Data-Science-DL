@@ -23,6 +23,11 @@
         - TNN (Tensorial Neural Network): TNNs combine the principles of tensor networks and neural networks to handle high-dimensional data efficiently. They are used for tasks such as network compression, information fusion, and quantum circuit simulation.
 
 - ### 4- [Generative Adversarial Network:](https://github.com/nelinazemi/Data-Science-DL/tree/aaa46ff4aebc1e73fd2ae1f1a3d89e000056be44/Generative%20Adversal%20Network)
+    - In this project the MNIST dataset was used to implement both the generator and discriminator parts of GAN neural network from scratch.
     - GANs are a class of machine learning frameworks where two neural networks, a generator and a discriminator, compete against each other to produce data that is indistinguishable from real data.
-    MNIST Dataset:
     - The MNIST dataset is a large database of handwritten digits that is commonly used for training various image processing systems. It contains 60,000 training images and 10,000 testing images of digits from 0 to 9.
+
+- ### 5- [Audio Processing Project:](https://github.com/nelinazemi/Data-Science-DL/tree/a51c6a737db847af01863dd616e64b70b4dbb059/Audio%20Processing)
+    - This project was aimed to classify sounds using a custom dataset with a few sound samples.
+    - An MS neural network was implemented from scratch to achieve this goal.
+    - The data transformation was carried out using various functions of torchaudio.
