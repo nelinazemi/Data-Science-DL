@@ -33,13 +33,13 @@
     - The data transformation was carried out using various functions of torchaudio.
 
 
-- #### 6- [Natural Language Processing:]
+- ### 6- [Natural Language Processing:](https://github.com/nelinazemi/Data-Science-DL/tree/b0f3462ee3b9cfcbdbf05a076017254e06012ad8/Natural%20Language%20Processing)
 	- This project demonstrates natural language processing (NLP) techniques using PyTorch and TorchText. 
 	- It includes data preprocessing, tokenization, vectorization with GloVe embeddings, and classification tasks using the AG News dataset.
 	- The code explores embeddings, embedding bags, and transformations, while also building and training an RNN-based classifier. Various training strategies, optimization methods, and evaluation metrics are implemented to improve the model's performance.
 	- The project concludes with visualizations of the loss and accuracy across training epochs.
 
-- ### 7- [Knowledge Distillation:]
+- ### 7- [Knowledge Distillation:](https://github.com/nelinazemi/Data-Science-DL/tree/635dcf9e240e542443ebcfc2669524c69acd719f/Knowledge%20Distillation)
 	- This code implements a knowledge distillation workflow for image classification on the CIFAR-10 dataset.
 	- It defines Teacher and Student models, with the Teacher being a deeper network and the Student being a shallower one.
 	- Using data augmentation techniques and DataLoaders, it trains the Teacher model first, optimizing its performance with multiple hyperparameter tuning steps (learning rate, weight decay).
