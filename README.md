@@ -31,3 +31,17 @@
     - This project was aimed to classify sounds using a custom dataset with a few sound samples.
     - An MS neural network was implemented from scratch to achieve this goal.
     - The data transformation was carried out using various functions of torchaudio.
+
+
+- #### 6- [Natural Language Processing:]
+	- This project demonstrates natural language processing (NLP) techniques using PyTorch and TorchText. 
+	- It includes data preprocessing, tokenization, vectorization with GloVe embeddings, and classification tasks using the AG News dataset.
+	- The code explores embeddings, embedding bags, and transformations, while also building and training an RNN-based classifier. Various training strategies, optimization methods, and evaluation metrics are implemented to improve the model's performance.
+	- The project concludes with visualizations of the loss and accuracy across training epochs.
+
+- ### 7- [Knowledge Distillation:]
+	- This code implements a knowledge distillation workflow for image classification on the CIFAR-10 dataset.
+	- It defines Teacher and Student models, with the Teacher being a deeper network and the Student being a shallower one.
+	- Using data augmentation techniques and DataLoaders, it trains the Teacher model first, optimizing its performance with multiple hyperparameter tuning steps (learning rate, weight decay).
+	- The knowledge distillation loss function combines KL Divergence to mimic the Teacher's soft labels and Cross-Entropy Loss to align with true labels.
+	- The Student model is trained with the Teacher's guidance, aiming to achieve comparable accuracy with fewer parameters. Finally, the training and validation performance is visualized, showcasing loss and accuracy trends across epochs.
